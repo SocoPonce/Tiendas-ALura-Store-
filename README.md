@@ -33,7 +33,7 @@ Determinar cuál tienda ofrece la mejor combinación de:
 
 Se compararon los ingresos totales de las cuatro tiendas.
 
-![Ingresos por Tienda](images/ingresos_por_tienda.png)
+![Ingresos por Tienda](ingresos_por_tienda.png)
 
 Esta gráfica permite identificar cuál tienda genera mayor rentabilidad.
 
