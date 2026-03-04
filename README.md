@@ -43,7 +43,7 @@ Esta gráfica permite identificar cuál tienda genera mayor rentabilidad.
 
 Se calculó el promedio de calificaciones (escala 1–5 estrellas) para evaluar la experiencia del cliente.
 
-![Satisfacción por Tienda](images/satisfaccion_por_tienda.png)
+![Satisfacción por Tienda](satisfaccion_por_tienda.png)
 
 Una alta satisfacción indica mayor probabilidad de recompra y sostenibilidad a largo plazo.
 
@@ -53,7 +53,7 @@ Una alta satisfacción indica mayor probabilidad de recompra y sostenibilidad a 
 
 Se analizó el volumen de productos vendidos por categoría.
 
-![Ventas por Categoría](images/ventas_por_categoria.png)
+![Ventas por Categoría](ventas_por_categoria.png)
 
 Este análisis permite identificar qué segmentos son más fuertes en cada tienda.
 
@@ -63,7 +63,7 @@ Este análisis permite identificar qué segmentos son más fuertes en cada tiend
 
 Se identificaron los productos con mayor frecuencia de venta en la tienda con mejor desempeño.
 
-![Productos Más Vendidos](images/productos_mas_vendidos.png)
+![Productos Más Vendidos](productos_mas_vendidos.png)
 
 Esto ayuda a detectar productos estrella y oportunidades de optimización de inventario.
 
